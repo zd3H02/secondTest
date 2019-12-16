@@ -30,5 +30,5 @@ I get 10 times more traffic from [Google][] than from
 [msn]:    http://search.msn.com/    "MSN Search"
 
 |見出し1|見出し2|見出し3|
-|:---||:---:||:---|
-|aaaaaaaaaaaaaaaa|iiiiiiiiiiiiiiiiiiiii||
+|:---||:---:||---:|
+|aaaaaaaaaaaaaaaa|iiiiiiiiiiiiiiiiiiiii|www|
