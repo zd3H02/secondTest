@@ -1,4 +1,4 @@
-![Alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwippbjErrnmAhWdKqYKHbV5BeUQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1vsPEMfLJI0kLDcEwa6ttG&ust=1576558046681108)
+![Alt text](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 # secondTest
 ## H2見出し
