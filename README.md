@@ -1,4 +1,4 @@
-![Alt text](http://penguinlab.jp/blog/wp-content/uploads/Octocat.png)
+![Alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwippbjErrnmAhWdKqYKHbV5BeUQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1vsPEMfLJI0kLDcEwa6ttG&ust=1576558046681108)
 
 # secondTest
 ## H2見出し
